@@ -8,7 +8,9 @@ I input my data (my height, weight and shoe size) and hoplefull that all three c
 Here is the result that I got:
 
 DecisionTree:  ['male']
+
 NearestNeighbors:  ['male']
+
 RandomForest:  ['male']
 
 I am glad that they all predicted the right result (insert big smile here).
